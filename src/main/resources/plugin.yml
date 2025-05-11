@@ -1,0 +1,16 @@
+name: SafetyExplosions
+version: '1.0'
+main: ru.kirushkinx.SafetyExplosions.SafetyExplosions
+api-version: '1.21.1'
+author: kirushkinx
+folia-supported: true
+
+permissions:
+  safetyexplosions.reload:
+    default: op
+
+commands:
+  safetyexplosions:
+    aliases: se
+    usage: /<command> reload
+    permission: safetyexplosions.reload

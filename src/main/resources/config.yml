@@ -1,0 +1,12 @@
+# hewwo, my name is kirushkinx >_<
+
+prevent-blocks-from-exploding:
+  end_crystal: true
+  respawn_anchor/bed: true
+  tnt: true
+  tnt_minecart: true
+  creeper: true
+
+invulnerable-entities:
+  item_frame: true
+  armor_stand: true
