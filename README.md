@@ -1,3 +1,3 @@
 # SafetyExplosions
 
-A simple plugin that protects blocks from various explosions with folia support
+A simple Minecraft plugin that protects blocks from all types of explosions. Supports Folia
